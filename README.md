@@ -52,62 +52,63 @@ Tipando Valores 2<br>
 ---
 ### Acessando dados das tabelas do SAP
 
-Estrutura SYST ou SY
-Sobre o Select em ABAP
-Sobre o DEBUG
-Faça o que eu fiz na aula
-O que aprendemos?
-Estrutura SY
-Introdução Select
-Debug Select
+Estrutura SYST ou SY<br>
+Sobre o Select em ABAP<br>
+Sobre o DEBUG<br>
+Faça o que eu fiz na aula<br>
+O que aprendemos?<br>
+Estrutura SY<br>
+Introdução Select<br>
+Debug Select<br>
 
 ---
 ### Conhecendo Work Area e Tabela Interna
 
-Sobre Work Areas
-Sobre Tabela Interna
-Faça o que eu fiz na aula
-O que aprendemos?
-Estrutura
-Variáveis e Tipo da Tabela
-Tabela Interna
+Sobre Work Areas<br>
+Sobre Tabela Interna<br>
+Faça o que eu fiz na aula<br>
+O que aprendemos?<br>
+Estrutura<br>
+Variáveis e Tipo da Tabela<br>
+Tabela Interna<br>
 
 ---
 ### Criação de telas com Parameters e Select Options
 
-Sobre Parameters
-Sobre Select Options
-Select Option nos detalhes
-Faça o que eu fiz na aula
-O que aprendemos?
-Parameters
-Select - Options
+Sobre Parameters<br>
+Sobre Select Options<br>
+Select Option nos detalhes<br>
+Faça o que eu fiz na aula<br>
+O que aprendemos?<br>
+Parameters<br>
+Select - Options<br>
 
 ---
 ### Melhorando a usabilidade da aplicação
 
-Sobre Mensagens
-Sobre Text Elements
-Faça o que eu fiz na aula
-O que aprendemos?
-Usabilidade Select-Options
-Usabilidade MSG
+Sobre Mensagens<br>
+Sobre Text Elements<br>
+Faça o que eu fiz na aula<br>
+O que aprendemos?<br>
+Usabilidade Select-Options<br>
+Usabilidade MSG<br>
 
 ---
 ### Desenhando tabela com ABAP
 
-Sobre o comando ULINE
-Sobre formatação da tabela
-Faça o que eu fiz na aula
-O que aprendemos?
-Borda Tabela
-Colorir Campos
+Sobre o comando ULINE<br>
+Sobre formatação da tabela<br>
+Faça o que eu fiz na aula<br>
+O que aprendemos?<br>
+Borda Tabela<br>
+Colorir Campos<br>
 
 ---
 ### Liberando a aplicação
-Sobre Transações
-Faça o que eu fiz na aula
-O que aprendemos?
-Criação de Transação
-Barra H
-Encerramento
+
+Sobre Transações<br>
+Faça o que eu fiz na aula<br>
+O que aprendemos?<br>
+Criação de Transação<br>
+Barra H<br>
+Encerramento<br>
